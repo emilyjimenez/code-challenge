@@ -1,5 +1,5 @@
 import "./post.css";
-import PostImg from "../assets/post_img.jpeg";
+import PostImg from "../../assets/post_img.jpeg";
 
 export default function Post() {
     return (

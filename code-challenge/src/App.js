@@ -1,7 +1,7 @@
-import NavBar from "./navbar/NavBar";
+import NavBar from "./components/navbar/NavBar";
 import Home from "./pages/Home";
-import Posts from "./posts/Posts";
-import Post from "./post/Post";
+import Posts from "./components/posts/Posts";
+import Post from "./components/post/Post";
 
 function App() {
   return (

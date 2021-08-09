@@ -1,5 +1,5 @@
 import "./navbar.css";
-import {ReactComponent as Logo} from "../assets/boots_logo.svg"
+import {ReactComponent as Logo} from "../../assets/boots_logo.svg"
 
 export default function NavBar() {
     return (
