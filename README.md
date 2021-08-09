@@ -23,6 +23,7 @@ Blog posts page must be searchable, and Post details page must be able to show i
 
 ## Further Exploration
 - Tailwind CSS
+- Desktop View
 
 ### Markup/UI implementation
 
