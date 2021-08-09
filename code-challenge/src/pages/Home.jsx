@@ -1,6 +1,6 @@
 import "./home.css"
 import headerImg from "../assets/headerImg.jpeg";
-import Posts from "../posts/Posts";
+import Posts from "../components/posts/Posts";
 
 export default function Home() {
     return (
