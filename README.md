@@ -17,6 +17,12 @@ Blog posts page must be searchable, and Post details page must be able to show i
 ## Requirements
 
 ## Technologies Used
+- Node.js
+- React
+- VS Code
+
+## Further Exploration
+- Tailwind CSS
 
 ### Markup/UI implementation
 
