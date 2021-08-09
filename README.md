@@ -47,6 +47,8 @@ Blog posts page must be searchable, and Post details page must be able to show i
 
 Feel free to deliver this as your standard NPM/Yarn type of installation. Docker is fine as well. We expect delivery as a Zip file or from a public Git repository. (You can fork this repository as a starting point)
 
+*Use* `npm start` *to run application locally. Please note, this application was only designed for mobile view.*
+
 ## Thanks
 
 We really want to thank you for taking the time to run through this code challenge. We value your time immensely. If you have any suggestions as to how we could improve this exercise, please let us know.
