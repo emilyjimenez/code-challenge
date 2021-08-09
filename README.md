@@ -28,12 +28,19 @@ Blog posts page must be searchable, and Post details page must be able to show i
 ## Questions
 
 - What are your thoughts around continuous integration, where & how you would deploy this application?
+
 *Continuous integration is important for real word applications because UX trends change, coding languages and APIs become deprecated, and clients ask for newer features.*
+
 - What do you think you would do differently if you had 2 weeks to complete this assignment and no requirement to use Github. What would your backend solution look like?
+
 *I would have finished the tutorial I was following and continued to build out the required features.*
+
 - How and where do you feel like this application should be deployed to?
+
 *Nowhere!*
+
 - Are you happy with your own solutions? If yes, which parts do you think are really well done, if not, what would you want to change?
+
 *Yes and No. There is not enough time for someone of my skill level to finish a project like this in 45-60 minutes and I definitely spent too much time on it but enjoyed learning about React, using Git, and playing around on the front-end.*
 
 ## Delivery
