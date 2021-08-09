@@ -1,5 +1,6 @@
 import "./home.css"
-import headerImg from "../assets/headerImg.jpeg"
+import headerImg from "../assets/headerImg.jpeg";
+import Posts from "../posts/Posts";
 
 export default function Home() {
     return (
@@ -10,6 +11,7 @@ export default function Home() {
             </div>
             <img className="header-img" src={headerImg} alt="tumble weed header"/>
         </div>
+        <Posts/>
     </div>
     )
 }
