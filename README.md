@@ -14,7 +14,6 @@ The backend for this blog are Github Gists. The idea is that you can enter  a us
 
 Blog posts page must be searchable, and Post details page must be able to show its formatted Markdown as HTML in the case Gists content was saved with `.md` extension.
 
-## Requirements
 
 ## Technologies Used
 - Node.js
@@ -24,34 +23,18 @@ Blog posts page must be searchable, and Post details page must be able to show i
 ## Further Exploration
 - Tailwind CSS
 - Desktop View
-
-### Markup/UI implementation
-
-Paying attention to details is important, so is using good UI patterns at the moment of implementing a design. In this repository you'll find some files to support your work on:
-
-- Design: `/support-files/designs/`
-- Fonts: `/support-files/fonts/`
-
-You'll be challenged to implement a clean UX using those files to base your experience on.
-
-### As a reader (non logged user)
-
-- As a reader, I want to be able to see a list of blog posts that a writer has posted on Github in the form of Gists.
-- As a reader, I want to be able to select a post on the index page and see the post details, it must be presented in HTML if Gist was a Markdown file.
-- As a reader, I want to be able to navigate from post to post, easily reading the next post.
-- As a reader, I want to be able to navigate back to the index page from a post so that I can select a different post to read.
-
-### As awritter (logged in user)
-
-- As a writer, I want to be able to post a Gist to Github and have that post show up on my blog so that a reader can read the new post.
-- As a writer, I want to be able to make updates to a post by updating the Gist, so that I can correct typos and make content updates.
+- Project Completion
 
 ## Questions
 
 - What are your thoughts around continuous integration, where & how you would deploy this application?
+*Continuous integration is important for real word applications because UX trends change, coding languages and APIs become deprecated, and clients ask for newer features.*
 - What do you think you would do differently if you had 2 weeks to complete this assignment and no requirement to use Github. What would your backend solution look like?
+*I would have finished the tutorial I was following and continued to build out the required features.*
 - How and where do you feel like this application should be deployed to?
+*Nowhere!*
 - Are you happy with your own solutions? If yes, which parts do you think are really well done, if not, what would you want to change?
+*Yes and No. There is not enough time for someone of my skill level to finish a project like this in 45-60 minutes and I definitely spent too much time on it but enjoyed learning about React, using Git, and playing around on the front-end.*
 
 ## Delivery
 
